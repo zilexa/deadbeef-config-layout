@@ -6,7 +6,12 @@ Since it is a pain to build some of the plugins (Infobar, Musical Spectrum) and 
 Feel free to use it. Screenshot attached:
 
 On Ubuntu Budgie 20.04.1 with standard Pocillo theme:
-![Deadbeef ZileXa screenshot with Ubuntu Budgie Pocillo](https://i.ibb.co/hRS4ZNZ/Screenshot-from-2020-08-08-15-15-02.png)
+![Deadbeef ZileXa screenshot with Ubuntu Budgie Pocillo](https://i.ibb.co/Cb0TWZb/Screenshot-from-2020-08-08-15-22-16.png)
 
 On Ubuntu Budgie 20.04.1 with Arc-Dark theme:
-![Deadbeef ZileXa screenshot with Ubuntu Budgie Arc-Dark](https://i.ibb.co/jHm8QqF/Screenshot-from-2020-08-08-15-15-42.png)
+![Deadbeef ZileXa screenshot with Ubuntu Budgie Arc-Dark](https://i.ibb.co/Cb1rHsy/Screenshot-from-2020-08-08-15-24-06.png)
+
+By default the Wave Spectrum has a white background to match the default Ubuntu Budgie Pocillo theme. To get the dark theme, you must select Arc-Dark for your system first:
+
+1. Budgie Menu > Budgie Desktop Settings > Widgets: Select Arc-Dark
+2. DeadBeef > Right click the wave spectrum > Configure > Background (top right) > Custom + > fill in #383c4a and hit Tab or Enter.
