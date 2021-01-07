@@ -81,7 +81,7 @@ musical_spectrum.bar_delay 100
 musical_spectrum.bar_falloff 100
 musical_spectrum.bar_w 0
 musical_spectrum.channel 262143
-musical_spectrum.color.background 65535 65535 65535
+musical_spectrum.color.background 14392 15420 19018
 musical_spectrum.color.black_keys 0 0 0
 musical_spectrum.color.gradient_00 65535 0 0
 musical_spectrum.color.gradient_01 65535 32896 0
